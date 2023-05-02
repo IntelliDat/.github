@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/43540833/179823982-a24220b6-5150-4895-a784-b18754d67793.png)
+![cvr-01](https://user-images.githubusercontent.com/55337770/235751909-3f12a572-b330-40c5-b05c-26c5af602846.jpg)
 
 Welcome to Luminova, a software development company founded by Dineth Ekanayaka, Thisara Yashodha, and Asanka Madushan. We specialize in creating innovative mobile applications, desktop applications, and web applications that are designed to make your life easier and more efficient.
 
