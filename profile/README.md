@@ -7,3 +7,6 @@ At Luminova, we are passionate about technology and dedicated to providing our c
 Our team of experienced developers and designers is committed to using the latest technologies and best practices to deliver software solutions that are reliable, scalable, and secure. Whether you need a mobile application for your business, a desktop application for your team, or a web application to reach a wider audience, Luminova has the expertise and experience to deliver the software solution you need.
 
 Thank you for visiting our GitHub organization page. We look forward to working with you and helping you achieve your software development goals.
+
+### CO-Founders
+Dineth Ekanayaka | Thisara Yashodha | Asanka Madushan
